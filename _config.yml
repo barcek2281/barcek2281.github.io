@@ -1,0 +1,17 @@
+title: Личный Сайт barcek2281
+email: sabdpp17@gmail.com
+description: >- # Используйте `>`, чтобы вставить текст в несколько строк.
+  Это мой личный сайт, созданный с помощью Jekyll.
+baseurl: "" # корневая папка в URL (напр. /blog)
+url: "https://barcek2281.github.io" # URL сайта
+
+# Социальные ссылки
+twitter_username: sabdpp17
+github_username:  barcek2281
+
+markdown: kramdown
+theme: minima
+
+# Плагины
+plugins:
+  - jekyll-feed
