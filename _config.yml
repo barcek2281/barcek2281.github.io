@@ -21,7 +21,7 @@
 title: Ayanat's web page
 email: sabdpp17@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This my web page, where you can discover my projects, notes and articles.
+  This my web page, where you can discover my projects and articles.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  barcek2281
